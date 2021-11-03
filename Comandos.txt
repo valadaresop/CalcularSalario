@@ -1,0 +1,12 @@
+COMANDOS
+
+(ATIVAR VARIAVEL AMBIENTE)
+ > set FLASK_APP=hello
+  -> flask run
+  
+(Ativar RELOADING )
+ >set FLASK_ENV=development
+  ->flask run
+  
+ (ATIVAR AMBIENTE VIRTUAL)
+ .\venv\Scripts\activate
